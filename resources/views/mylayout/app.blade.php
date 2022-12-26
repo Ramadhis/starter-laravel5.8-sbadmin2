@@ -58,7 +58,8 @@
 
           <!-- Nav Item - Pages Collapse Menu -->
           <li class="nav-item">
-            <a class="nav-link collapsed" href="{{ route('page') }}" aria-expanded="true" aria-controls="collapseTwo">
+            <a class="nav-link collapsed" href="{{ route('page.index') }}" aria-expanded="true"
+              aria-controls="collapseTwo">
               <i class="fas fa-fw fa-tachometer-alt"></i>
               <span>Page 1</span>
             </a>
